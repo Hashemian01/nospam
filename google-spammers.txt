@@ -1,0 +1,19 @@
+# Google search result spammers
+you can use uBlacklist on chrome to block these addresses
+------------------------- 
+*://1000site.ir/*
+*://iran-chasb.ir/*
+*://ernos.ir/*
+*://behjan.ir/*
+*://nahamta.ir/*
+*://thesisdown.4kia.ir/*
+*://sokhanan.rozblog.com/*
+*://qafinds.com/*
+*://24-7downloads.com/*
+*://yektafile.ir/*
+*://downloadfree.hostkda.com/*
+*://kavala.ir/*
+*://avakhi3.ir/*
+*://smart-idea.ir/*
+*://jils.ir/*
+*://iranbook.getblogs.ir/*
