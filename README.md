@@ -1,5 +1,6 @@
 # nospam
 A list of iranian spammers
+لیست اسمپرهای ایرانی
 
 # what is this?
 This repo is dedicated to listing Iranian spammers on diffrent platforms
